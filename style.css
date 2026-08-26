@@ -34,14 +34,14 @@ nav a {
 }
 
 nav a:hover {
-    background-color: azure;
+    background-color: rgb(8, 48, 23);
 }
 main {
     width: 80%;
     margin:auto;
 }
 section {
-    background-color: rgb(8, 36, 20);
+    background-color: rgb(242, 243, 243);
     margin: 20px 0;
     padding: 20px;
     border-radius: 12px;
