@@ -13,7 +13,7 @@
 .tema-escuro{
     --cor-fundo:black;
     --cor-texto:black;
-    --cor-principal:black;
+    --cor-principal:white;
     --cor-superficie:black;
     --cor-card:black;
 }
