@@ -12,8 +12,8 @@
 }
 .tema-escuro{
     --cor-fundo:black;
-    --cor-texto:rgb(27, 78, 15);
-    --cor-principal:white;
+    --cor-texto:rgb(255, 255, 255);
+    --cor-principal:rgb(27, 78, 15);
     --cor-superficie:black;
     --cor-card:rgb(27, 78, 15);
 }
