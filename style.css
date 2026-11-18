@@ -12,10 +12,10 @@
 }
 .tema-escuro{
     --cor-fundo:black;
-    --cor-texto:black;
+    --cor-texto:rgb(255, 255, 255);
     --cor-principal:white;
     --cor-superficie:black;
-    --cor-card:black;
+    --cor-card:rgb(27, 78, 15);
 }
 
 body {
